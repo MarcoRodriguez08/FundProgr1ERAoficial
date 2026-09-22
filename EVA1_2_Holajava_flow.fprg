@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_2_HOLAJAVA"/>
+        <attribute name="authors" value="bisonte"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-21 06:10:25 SEXO"/>
+        <attribute name="created" value="Ymlzb250ZTtERVNLVE9QLUNERTYwSk87MjAyNi0wOS0wMzswNjowMTo1NyBwLiBtLjszMjcx"/>
+        <attribute name="edited" value="Ymlzb250ZTtERVNLVE9QLUNERTYwSk87MjAyNi0wOS0wMzswNjoxNzoxNSBwLiBtLjsxOzMzODA="/>
+        <attribute name="edited" value="Ymlzb250ZTtERVNLVE9QLTRVUUFNMTA7MjAyNi0wOS0yMTswNjoxMDoyNSBTRVhPOzE7MzM0Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Hola Mundo&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
